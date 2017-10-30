@@ -15,8 +15,10 @@ A part 🌱 of our **Tool set** 🔧  to keep the structure of **[Cosmos](https:
 * Place the script `format.sh` where Cosmos exists :derelict_house: 
 * Execute the code: 
 ```
-./format.sh
+$ ./format.sh
 ```
+
+Obs: maybe you need to give execute permission with `chmod +x`
 
 # Contributions
 
